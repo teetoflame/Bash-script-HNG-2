@@ -179,6 +179,6 @@ The script automates user and group management, making it easier to manage users
 
 Contributing
 
-Calling all DevOps wizards! ‍♀️ Fork it, fix it, then pull request it! Let’s make this script even more magical. My GitHub ( https://github.com/teetoflame/Bash-script-HNG-2 )
+Calling all DevOps wizards! ‍♀️ Fork it, fix it, then pull request it! Let’s make this script even more magical. My GitHub ( https://github.com/teetoflame/Bash-script-HNG-2 ).
 
 visit https://hng.tech/premium to learn more about HNG.
